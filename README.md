@@ -58,6 +58,3 @@
 - layman
 - eix
 - gentoo-kernel-bin
-
-# License
-MIT
